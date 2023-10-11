@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/0e2660df-0ca7-4d35-abb8-afde316fe3d9/resourceGroups/MarkusSchleicher--PoC/providers/Microsoft.Web/sites/markus-quickstart2",
+    "appService.deploySubpath": "."
+}
